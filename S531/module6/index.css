@@ -17,6 +17,7 @@
 			padding: 20px 30px;
 			text-align: center;
 			text-decoration: none;
+			font-family: Merriweather, serif;
 			display: inline-block;
 		}
 		
@@ -41,6 +42,7 @@
         nav {
             grid-area: nav;
 			text-align: center;
+			font-family: Lato, sans-serif;
         }
 
         main {
@@ -50,7 +52,7 @@
 			padding-left: 25px;
 			padding-right: 25px;
 			padding-bottom: 10px;
-            background-color:#3928CC;
+            background-color:#83215F;
 			color:#FFDECB;
         }
 
@@ -67,6 +69,8 @@
         footer {
             grid-area: footer;
 			border-top-style: solid;
+			border-color:#0D026D;
+			font-family: Lato, sans-serif;
         }
 
         .grid-container {
