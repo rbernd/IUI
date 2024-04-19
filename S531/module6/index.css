@@ -43,6 +43,7 @@
             grid-area: nav;
 			text-align: center;
 			font-family: Lato, sans-serif;
+			color:#0D026D;
         }
 
         main {
@@ -71,6 +72,7 @@
 			border-top-style: solid;
 			border-color:#0D026D;
 			font-family: Lato, sans-serif;
+			color:#0D026D;
         }
 
         .grid-container {
