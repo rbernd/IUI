@@ -32,6 +32,7 @@
 		header {
             grid-area: header;
 			border-bottom-style: solid;
+			font-family: Lato, sans-serif;
         }
 
         nav {
