@@ -9,11 +9,11 @@
 		
 		a:link, a:visited {
 			background-color: 3928CC;
-			color: white;
+			color: FFDECB;
 			position: relative;
 			right: 22px;
 			width: 40%;
-			border: 2px solid white;
+			border: 2px solid FFDECB;
 			padding: 20px 30px;
 			text-align: center;
 			text-decoration: none;
@@ -21,8 +21,8 @@
 		}
 		
 		a:hover, a:active {
-			background-color: white;
-			color: navy;
+			background-color: FFDECB;
+			color: 3928CC;
 		}
 		
 		body {
@@ -56,8 +56,8 @@
 			border-radius: 5px;
 			padding-bottom: 10px;
 			text-align: center;
-            background-color: black;
-			color: white;
+            background-color: FF875C;
+			color: 0D026D;
         }
 
         footer {
