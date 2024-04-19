@@ -8,7 +8,7 @@
 		}
 		
 		a:link, a:visited {
-			background-color: navy;
+			background-color: 3928CC;
 			color: white;
 			position: relative;
 			right: 22px;
@@ -95,7 +95,7 @@
             .grid-container {
                 display: grid;
                 grid-template-areas:
-                                        'header header header header header header'
+                        		'header header header header header header'
 					'nav nav nav nav nav nav'
                     'main main main main aside aside'
                     'footer footer footer footer footer footer';
